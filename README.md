@@ -120,7 +120,12 @@ This experiment uses the **inset microstrip line feed** (or coaxial probe feed, 
 
 ## Observations
 
-*(Include your own table / plots relevant to the experiment.)*
+<img width="1917" height="897" alt="Screenshot 2026-09-13 093417" src="https://github.com/user-attachments/assets/a5da95b8-c0e3-401f-8729-5d99a057d445" />
+
+<img width="1623" height="661" alt="Screenshot 2026-09-13 093716" src="https://github.com/user-attachments/assets/389d67c8-fc07-4a09-8b2c-d474707fe28c" />
+
+<img width="1917" height="782" alt="Screenshot 2026-09-13 093732" src="https://github.com/user-attachments/assets/08f34aaf-903e-48c4-885f-0e0704219117" />
+
 
 
 
@@ -128,13 +133,19 @@ This experiment uses the **inset microstrip line feed** (or coaxial probe feed, 
 
 
 * S11 vs frequency
-*(Include your own graph)*
+<img width="1621" height="662" alt="Screenshot 2026-09-13 093430" src="https://github.com/user-attachments/assets/10cc6b4a-4d63-401c-951d-c523a60ccb08" />
+
+
 
 * VSWR vs frequency
-*(Include your own graph)*
+
+<img width="1623" height="662" alt="Screenshot 2026-09-13 093449" src="https://github.com/user-attachments/assets/c00fb669-22dc-4086-a927-5657036221a3" />
+
 
 * 2-D E-plane and H-plane radiation patterns
-*(Include your own graph)*
+
+
+<img width="1620" height="657" alt="Screenshot 2026-09-13 093522" src="https://github.com/user-attachments/assets/b2472055-6622-461c-bb57-bac1804cc2d7" />
 
 
 ---
@@ -149,16 +160,16 @@ This experiment uses the **inset microstrip line feed** (or coaxial probe feed, 
 
 ## Result
 
-Resonant Frequency = GHz  
+Resonant Frequency = 2.4GHz  
 
-Return loss = dB
+Return loss =-25 dB
 
-VSWR = 
+VSWR = 1.12
 
-Gain = 
+Gain = 6.5DBI
 
 
 ## Conclusion
 
-A rectangular microstrip patch antenna was designed and simulated at ______ GHz using Ansys HFSS.
+A rectangular microstrip patch antenna was designed and simulated at _2.4_____ GHz using Ansys HFSS.
 
